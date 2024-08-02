@@ -1,0 +1,12 @@
+*.log
+*.png
+*.tex
+*.aux
+*.out
+*.synctex.gz 
+*.zip
+*.toc
+*.vscode/
+*.Rhistory
+*.xdv
+pdflatex50440.fls
